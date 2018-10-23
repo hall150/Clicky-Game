@@ -1,0 +1,51 @@
+[
+    {
+      "id": 1,
+      "image": "ausshep.jpg"
+    },
+    {
+      "id": 2,
+      "image": "beagle.jpeg"    
+    },
+    {
+      "id": 3,
+      "image": "corgi.jpg"
+    },
+    {
+      "id": 4,
+      "image": "dalmation.jpg" 
+    },
+    {
+      "id": 5,
+      "image": "golden.jpg"
+    },
+    {
+      "id": 6,
+      "image": "heeler.jpg"
+    },
+    {
+      "id": 7,
+      "image": "lab.jpg"
+    },
+    {
+      "id": 8,
+      "image": "lab2.jpg"
+    },
+    {
+      "id": 9,
+      "image": "pitty.jpg"
+    },
+    {
+      "id": 10,
+      "image": "sleep.jpg"
+    },
+    {
+      "id": 11,
+      "image": "target.JPG"
+    },
+    {
+      "id": 12,
+      "image": "teacup.jpg"
+    }
+  ]
+  
